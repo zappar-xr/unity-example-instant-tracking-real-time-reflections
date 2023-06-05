@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "instant-tracking-real-time-reflections",
+"productVersion": "1.0",
+"dataUrl": "e7ce4ae9399ee89be6161a0adbe1c781.unityweb",
+"wasmCodeUrl": "f891dea0eabf9e1e0aa26bd7f9c49cd3.unityweb",
+"wasmFrameworkUrl": "cf4ba551f664dd7a261fe7f7f2a01265.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
